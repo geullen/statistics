@@ -2,6 +2,9 @@
 
 ### 0. application 실행시 data.sql 실행하여 기초 데이터 세팅
 
+### 1. 실행파일경로
+##### com.statistics 패키지에 StatisticsApplication.java 실행
+
 ### 1. resources/dump
 ##### 구현된 데이터 덤프파일 존재  : test01_02.sql
 
